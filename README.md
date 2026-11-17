@@ -1,6 +1,6 @@
 # Renato Julio Oliveira da Cruz &
 
-# Vinicius Ferreira
+# Vinicius Dias Ferreira
 
 # Conversor de bases
 
