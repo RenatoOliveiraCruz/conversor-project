@@ -1,3 +1,7 @@
+# Renato Julio Oliveira da Cruz &
+
+# Vinicius Ferreira
+
 # Conversor de bases
 
 Conversor numérico simples feito com HTML, CSS e JavaScript puros.
